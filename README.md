@@ -30,8 +30,8 @@ Uma calculadora simples desenvolvida com **React Native** utilizando componentes
 
 ## Tela Inicial
 
-![Tela Inicial](./assets/screenshots/home.png)
-
+![Tela Inicial](./Captura de tela 2026-05-13 120802.png)
+<img src=
 ---
 
 ## Inserindo números
@@ -131,12 +131,6 @@ Durante o desenvolvimento foram praticados:
 
 ---
 
-# 📄 Licença
-
-Este projeto está sob a licença MIT.
-
----
-
 # 👨‍💻 Autor
 
-Desenvolvido por você 🚀
+Luciz 🚀
