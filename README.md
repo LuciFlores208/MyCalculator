@@ -30,25 +30,30 @@ Uma calculadora simples desenvolvida com **React Native** utilizando componentes
 
 ## Tela Inicial
 
-![Tela Inicial](./Captura de tela 2026-05-13 120802.png)
-<img src=
+![Tela Inicial]
+<img src="./Captura de tela 2026-05-13 120802.png" width="250"/>
+
 ---
 
 ## Inserindo números
 
-![Inserindo números](./assets/screenshots/input.png)
+![Inserindo números]
+<img src="./Captura de tela 2026-05-13 120848.png" width="250"/>
+
 
 ---
 
 ## Operação matemática
 
-![Operação matemática](./assets/screenshots/operation.png)
+![Operação matemática]
+<img src="./Captura de tela 2026-05-13 120841.png" width="250"/>
 
 ---
 
 ## Resultado
 
-![Resultado](./assets/screenshots/result.png)
+![Resultado]
+<img src="./Captura de tela 2026-05-13 120833.png" width="250"/>
 
 ---
 
